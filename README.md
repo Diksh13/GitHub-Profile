@@ -1,4 +1,4 @@
-# PWA-Login
+# PWA-Github-Profile
 A simple github profile website with PWA features.
 
 # Install npm in Ubuntu
