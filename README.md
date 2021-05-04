@@ -1,5 +1,5 @@
 # PWA-Login
-A simple login website with PWA features.
+A simple github profile website with PWA features.
 
 # Install npm in Ubuntu
 sudo apt install npm
